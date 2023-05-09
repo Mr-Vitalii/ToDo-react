@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ToDo-react/static/css/main.a04e815b.css",
+    "main.js": "/ToDo-react/static/js/main.ca1a6cce.js",
+    "static/media/bg-desktop-dark.jpg": "/ToDo-react/static/media/bg-desktop-dark.36736e97bc166a4bfbc4.jpg",
+    "static/media/bg-desktop-light.jpg": "/ToDo-react/static/media/bg-desktop-light.42b9d5e189e077a74dcd.jpg",
+    "static/media/sprite.svg": "/ToDo-react/static/media/sprite.c696436605ca0eddd2f745536f7b6b61.svg",
+    "index.html": "/ToDo-react/index.html",
+    "main.a04e815b.css.map": "/ToDo-react/static/css/main.a04e815b.css.map",
+    "main.ca1a6cce.js.map": "/ToDo-react/static/js/main.ca1a6cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04e815b.css",
+    "static/js/main.ca1a6cce.js"
+  ]
+}
