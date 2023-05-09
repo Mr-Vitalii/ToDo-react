@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.io/Mr-Vitalii/ToDo-react",
   "name": "g8_lect",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mr-vitalii.github.io/ToDo-react/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
